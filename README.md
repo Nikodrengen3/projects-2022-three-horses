@@ -1,9 +1,9 @@
 # \[Group name\]
 
 **Group members:**
-- A
-- B
-- C
+- Mikkel Klint Stuhr
+- Mathias Bindseil Møller
+- Asbjørn Juul Petersen
 
 This repository contains  
 1. Inaugural project. 
